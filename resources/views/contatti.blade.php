@@ -32,7 +32,7 @@
     </style>
 </head>
 <body>
-    <h1>Hello Laravel!</h1>
+    <h1>Contatti</h1>
     <div class="container">
         <nav>
             <ul>
